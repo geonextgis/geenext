@@ -21,6 +21,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://geonextgis.github.io/geenext/extraction/</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://geonextgis.github.io/geenext/faq/</loc>
          <lastmod>2024-08-27</lastmod>
          <changefreq>daily</changefreq>
