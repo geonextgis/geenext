@@ -2,4 +2,4 @@
 
 __author__ = """Krish Halder"""
 __email__ = "geonextgis@gmail.com"
-__version__ = "0.2.0"
+__version__ = "1.0.0"
